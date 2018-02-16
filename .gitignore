@@ -1,2 +1,8 @@
 # ignore all files in the generated build directory
+######################
 build/
+
+
+# OS Generated file #
+#####################
+.DS_Store
