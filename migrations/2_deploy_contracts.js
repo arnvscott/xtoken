@@ -1,4 +1,4 @@
-var XToken = artifacts.require("XToken");
+const XToken = artifacts.require("XToken");
 
 module.exports = function(deployer) {
   // deployment steps
